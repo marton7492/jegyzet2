@@ -44,3 +44,12 @@ p {
 .keretpiros {
     border: red 2px solid;
 }
+
+table {
+    width: 600px;
+    height: 600px;
+}
+
+.c {
+    background-color: black;
+}
